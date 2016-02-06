@@ -9,4 +9,6 @@ Changed at local,commit through gitgui.
 
 Changed on github,tyr to check out with git bash.
 
+Changed on local,commit and push with git bash.
+
 
